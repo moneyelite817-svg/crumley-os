@@ -282,7 +282,7 @@ export default function RosterPage() {
 
           <Link href="/coach/agent" style={{ display:"block", textDecoration:"none" }}>
             <div style={{ background:"#1a6eff", borderRadius:12, padding:"16px", textAlign:"center", fontSize:15, fontWeight:900, color:"#fff", marginBottom:10 }}>
-              ⚡ Generate AI Content for {sel.name.split(" ")[0]}
+              ⚡ AI AGENT — 35 Skills for {sel.name.split(" ")[0]}
             </div>
           </Link>
 
